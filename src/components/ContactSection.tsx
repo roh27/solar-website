@@ -139,7 +139,7 @@ const ContactSection = () => {
                 className="flex items-center gap-3 text-muted-foreground hover:text-foreground transition-colors"
               >
                 <Phone className="w-5 h-5 text-primary" />
-                +91 98765 43210
+                +91 63837 00375
               </a>
               <a
                 href="https://wa.me/919876543210"
@@ -152,7 +152,7 @@ const ContactSection = () => {
               </a>
               <div className="flex items-center gap-3 text-muted-foreground">
                 <MapPin className="w-5 h-5 text-primary" />
-                Chennai, Tamil Nadu
+                Coimbatore, Tamil Nadu
               </div>
             </div>
           </div>

@@ -21,7 +21,7 @@ const Header = () => {
             <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-primary to-solar-400 flex items-center justify-center">
               <Sun className="w-6 h-6 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold text-foreground">Solar Square</span>
+            <span className="text-xl font-bold text-foreground">Stryde Solar</span>
           </a>
 
           {/* Desktop Navigation */}

@@ -17,7 +17,7 @@ const testimonials: Testimonial[] = [
     name: "Rajesh Kumar",
     location: "Chennai",
     systemSize: "5 kW",
-    quote: "My electricity bill dropped from ₹8,000 to just ₹500! SolarTN made the entire process seamless. Best decision for my home.",
+    quote: "My electricity bill dropped from ₹8,000 to just ₹500! Stryde Solar made the entire process seamless. Best decision for my home.",
     savings: "₹90,000/year",
   },
   {
